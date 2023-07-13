@@ -1,0 +1,4 @@
+Sat Jun 17 2023 16:29:14 } [PH] error: Failed to connect database bad auth : Authentication failed.
+Sat Jun 17 2023 16:34:44 } [PH] error: Failed to connect database connect ETIMEDOUT 3.6.254.147:27017
+Sat Jun 17 2023 16:52:10 } [PH] error: Failed to connect database connect ETIMEDOUT 3.6.254.147:27017
+Sat Jun 17 2023 16:55:46 } [PH] error: Failed to connect database connect ETIMEDOUT 3.6.254.147:27017
