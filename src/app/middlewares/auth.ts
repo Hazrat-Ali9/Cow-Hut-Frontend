@@ -4,7 +4,7 @@ import { Secret } from 'jsonwebtoken';
 import config from '../../config';
 import ApiError from '../../errors/ApiError';
 import { jwtHelpers } from '../../helpers/jwtHelpers';
-
+// Auth
 const authRole =
   (...requiredRoutes: string[]) =>
   async (req: Request, res: Response, next: NextFunction): Promise<void> => {
