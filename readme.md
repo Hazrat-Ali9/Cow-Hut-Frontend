@@ -1,3 +1,8 @@
+# 🐯 Hazrat Ali
+
+# 🦃 Programmer || Software Engineering
+
+
 ### Online Cow Selling Backend for Eid Ul Adha
 
 This project is a simple backend project for a cow hut. It is a simple project that allows a user to add cows to the cow hut, and get the status of the cow hut. Seller can also sell cows from the cow hut app. and buyer can buy cows from the cow hut app. and also can see the status of the cow hut. Admin can also add new admin to the cow hut app. and also can see the status of the cow hut.  This project is built with Node.js, Express.js, MongoDB, and JWT. Added advanced filtering, pagination, and search features. Also added authentication and authorization features.
