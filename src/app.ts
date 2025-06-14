@@ -5,7 +5,7 @@ import httpStatus from 'http-status';
 import globalErrorHandler from './app/middlewares/globalErrorHandler';
 import routes from './app/routes';
 const app: Application = express();
-
+// apps js
 app.use(cors());
 app.use(cookieParser());
 
