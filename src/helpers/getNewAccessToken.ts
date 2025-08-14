@@ -1,7 +1,7 @@
 import { Secret } from 'jsonwebtoken';
 import config from '../config';
 import { jwtHelpers } from './jwtHelpers';
-
+// get new access token
 export const getNewAccessToken = (
   phoneNumber: string,
   role: string
